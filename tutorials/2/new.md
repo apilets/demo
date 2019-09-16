@@ -8,7 +8,7 @@ author_profile: https://github.com/adadouche---
 ---
 
 Hello World!!!
-==============
+
 
 Access your first data in a native HANA Application.
 ----------------------------------------------------
